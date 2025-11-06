@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1760994483 source:c:\users\armin\documents\windowsprogramiranje\vjezbe_1\main.cpp
+	<tchar.h>
+	<iostream>
+	<windows.h>
+
